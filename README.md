@@ -21,4 +21,5 @@ cd ./src/scripts
 
 ## Links
 [thunk](http://redux.js.org/docs/api/applyMiddleware.html)
+
 [redux-thunk](https://github.com/gaearon/redux-thunk)
